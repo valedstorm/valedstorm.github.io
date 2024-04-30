@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Valed Blog</title>
+  <icon>https://valedstorm.github.io/icon.png</icon>
+  <subtitle>我追尋著夢的光點!</subtitle>
+  <link href="https://valedstorm.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://valedstorm.github.io/"/>
+  <updated>2024-04-30T02:57:20.000Z</updated>
+  <id>https://valedstorm.github.io/</id>
+  
+  <author>
+    <name>Valedstorm</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>官方 ESM 概念說明</title>
+    <link href="https://valedstorm.github.io/javascript/20240430/%E5%AE%98%E6%96%B9%20ESM%20%E6%A6%82%E5%BF%B5%E8%AA%AA%E6%98%8E/"/>
+    <id>https://valedstorm.github.io/javascript/20240430/%E5%AE%98%E6%96%B9%20ESM%20%E6%A6%82%E5%BF%B5%E8%AA%AA%E6%98%8E/</id>
+    <published>2024-04-30T02:47:56.000Z</published>
+    <updated>2024-04-30T02:57:20.000Z</updated>
+    
+    
+    <summary type="html">ESM (ECMAScript Module又稱Javascript模塊)</summary>
+    
+    
+    
+    <category term="javascript" scheme="https://valedstorm.github.io/categories/javascript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>建立 Vite + Electron 專案的配置手冊</title>
+    <link href="https://valedstorm.github.io/electron/20240407/%E5%BB%BA%E7%AB%8B%20Vite%20+%20Electron%20%E5%B0%88%E6%A1%88%E7%9A%84%E9%85%8D%E7%BD%AE%E6%89%8B%E5%86%8A/"/>
+    <id>https://valedstorm.github.io/electron/20240407/%E5%BB%BA%E7%AB%8B%20Vite%20+%20Electron%20%E5%B0%88%E6%A1%88%E7%9A%84%E9%85%8D%E7%BD%AE%E6%89%8B%E5%86%8A/</id>
+    <published>2024-04-07T15:26:23.000Z</published>
+    <updated>2024-04-07T17:15:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;這是建立一個Electron開發、打包的基本手冊&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="electron" scheme="https://valedstorm.github.io/categories/electron/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://valedstorm.github.io/unknown/20240406/hello-world/"/>
+    <id>https://valedstorm.github.io/unknown/20240406/hello-world/</id>
+    <published>2024-04-06T15:02:16.000Z</published>
+    <updated>2024-04-07T17:15:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;. &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="unknown" scheme="https://valedstorm.github.io/categories/unknown/"/>
+    
+    
+  </entry>
+  
+</feed>
